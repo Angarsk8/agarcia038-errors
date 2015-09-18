@@ -3,6 +3,7 @@ Package.describe({
     name: 'agarcia038:errors',
     version: '1.0.0',
     summary: 'A pattern to display application errors to the user',
+    git: "https://github.com/Angarsk8/agarcia038-errors",
     documentation: 'README.md'
 });
 
